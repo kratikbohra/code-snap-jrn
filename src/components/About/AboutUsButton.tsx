@@ -12,7 +12,6 @@ import { Badge } from "@/components/ui/badge";
 import { cn } from "@/lib/utils";
 import fav from "@/assets/favicon.png";
 import {
-  GitHubLogoIcon,
   LinkedInLogoIcon,
   InfoCircledIcon,
 } from "@radix-ui/react-icons";
